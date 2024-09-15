@@ -1,0 +1,17 @@
+{
+  "name": "visual-studio-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^20.12.12"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
