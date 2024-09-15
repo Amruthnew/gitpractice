@@ -16,6 +16,6 @@ await abc.click()
 //   await page.getByRole('button', { name: 'Docs ' }).click();
 //   await page.getByRole('link', { name: '| BDD School' }).click();
 //   await page.getByRole('link', { name: 'Login' }).click();
-await abc.nth(1).click();
+//await abc.nth(1).click();
 
 })
